@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cb6a609a384b54fbc08a1bc5aa32a7, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  _hitEffectObject: {fileID: 6945484632642027051, guid: 753664ce75a879b4bad70948fdadb129, type: 3}
+  _hitCliticalEffectObject: {fileID: 0}
+  _hitFireEffectObject: {fileID: 1320941957943787323, guid: fb63d5173363e974ab49782cda5647b0, type: 3}
+  _hitIceEffectObject: {fileID: 5436093931016288887, guid: 7c65c6d8db3e7cf4da799ad0abb31d8d, type: 3}
+  _hitThunderEffectObject: {fileID: 7597239638395208790, guid: 47f4b2a11de318644abc43d63da37564, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3357d1e36ebd914a88715972e996ade, type: 3}
+  m_Name: LargeSword_Ice
+  m_EditorClassIdentifier: 
+  _weaponName: "\u5927\u5263"
+  _attackPower: 36
+  _weaponType: 3
+  _weaponUseObject: {fileID: 5856569643130733302, guid: c3a6a338f83757447be89345ea7449c0, type: 3}
+  _weaponLookObject: {fileID: 3877851547850356457, guid: c4c47ab208cf4834db9795a10f6f1ddf, type: 3}
+  _attribute: 2

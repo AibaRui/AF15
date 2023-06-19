@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cb6a609a384b54fbc08a1bc5aa32a7, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: 
+  _hitEffectObject: {fileID: 815902812460282131, guid: 7672535f8e6bada47b7afc0244dad3ed, type: 3}
+  _hitCliticalEffectObject: {fileID: 3397063275428680894, guid: abf1cd67ab4e3ad40b1f214d36af7ea8, type: 3}
+  _hitFireEffectObject: {fileID: 3857256840101948667, guid: cd9f8257e9db70e47a0d761185ceb893, type: 3}
+  _hitIceEffectObject: {fileID: 359480400792291521, guid: fe8f96497e6b967498b4f9ab71b041b5, type: 3}
+  _hitThunderEffectObject: {fileID: 2257343057926193002, guid: 54d5057eccfe78741ac0edbcb3fa2e4e, type: 3}

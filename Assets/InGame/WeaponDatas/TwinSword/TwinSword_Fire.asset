@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40edef2e2ead2ab478b8f4ed10ac4d40, type: 3}
+  m_Name: TwinSword_Fire
+  m_EditorClassIdentifier: 
+  _weaponName: "\u30B0\u30EC\u30A4\u30C9"
+  _attackPower: 5
+  _weaponType: 4
+  _weaponUseObject: {fileID: 5426435182922124562, guid: 24dcc419b8e0eed41b78d50cb040fc37, type: 3}
+  _weaponLookObject: {fileID: 4632050609423620463, guid: eb23273f13e016244a21b4ef743f6d1f, type: 3}
+  _attribute: 1
+  _twinSowrd: {fileID: 6438874050842188250, guid: 275b95063808469418a9acbca2cd4292, type: 3}

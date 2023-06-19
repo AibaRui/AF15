@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3357d1e36ebd914a88715972e996ade, type: 3}
+  m_Name: Sword_Thender
+  m_EditorClassIdentifier: 
+  _weaponName: "\u3073\u308A\u3073\u308A\u5263"
+  _attackPower: 12
+  _weaponType: 1
+  _weaponUseObject: {fileID: 4109251021217856834, guid: d1707be9c7349b640bcc942cc827c197, type: 3}
+  _weaponLookObject: {fileID: 4072277997074548391, guid: 635b0b4392d6262488283f9a0c7cc428, type: 3}
+  _attribute: 3

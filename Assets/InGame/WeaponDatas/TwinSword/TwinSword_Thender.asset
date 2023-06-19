@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40edef2e2ead2ab478b8f4ed10ac4d40, type: 3}
+  m_Name: TwinSword_Thender
+  m_EditorClassIdentifier: 
+  _weaponName: "\u96F7\u5149"
+  _attackPower: 4
+  _weaponType: 4
+  _weaponUseObject: {fileID: 2703967639561933892, guid: 1899a6f87a7c4d149ad9476a95aed12f, type: 3}
+  _weaponLookObject: {fileID: 2916991115878361131, guid: ce20c1c4df5312c47b086f0fd7694664, type: 3}
+  _attribute: 3
+  _twinSowrd: {fileID: 3459110650096818075, guid: 21089b8e0f803de4f9a4cebf3164dd44, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3357d1e36ebd914a88715972e996ade, type: 3}
+  m_Name: Sword_Fire
+  m_EditorClassIdentifier: 
+  _weaponName: "\u30D5\u30A1\u30A4\u30A2\u30BD\u30FC\u30C9"
+  _attackPower: 15
+  _weaponType: 1
+  _weaponUseObject: {fileID: 4757835201098961787, guid: e2880c4ec9eb2934098745c8ad2cd749, type: 3}
+  _weaponLookObject: {fileID: 8326855059989650125, guid: 858b9902fee0da64ebfc2dbbf853a137, type: 3}
+  _attribute: 1

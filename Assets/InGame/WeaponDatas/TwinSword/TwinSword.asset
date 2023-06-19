@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40edef2e2ead2ab478b8f4ed10ac4d40, type: 3}
+  m_Name: TwinSword
+  m_EditorClassIdentifier: 
+  _weaponName: "\u53CC\u5263"
+  _attackPower: 1
+  _weaponType: 4
+  _weaponUseObject: {fileID: 7733311899464849557, guid: a1b5b541ce9642d4b9c0a0d305707752, type: 3}
+  _weaponLookObject: {fileID: 3977711323802114939, guid: 865ccfb4752267a47adeca68788a6afb, type: 3}
+  _attribute: 0
+  _twinSowrd: {fileID: 3500340677238727882, guid: 81efc37d5e1c9bd4aa0fa16ab4d34abf, type: 3}

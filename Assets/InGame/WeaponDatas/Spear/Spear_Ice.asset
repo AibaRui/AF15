@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3357d1e36ebd914a88715972e996ade, type: 3}
+  m_Name: Spear_Ice
+  m_EditorClassIdentifier: 
+  _weaponName: "\u30D5\u30EC\u30A4\u30DE\u30FC"
+  _attackPower: 14
+  _weaponType: 2
+  _weaponUseObject: {fileID: 242456968699984133, guid: f30911bf475f980479ee808c36402860, type: 3}
+  _weaponLookObject: {fileID: 4853916325523318081, guid: 39d84098c8ccd424a98698462b6b0d44, type: 3}
+  _attribute: 1

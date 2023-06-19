@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a4383ae21bb2140a2b2713f237698b, type: 3}
+  m_Name: New Scritable Inventory Sprite Data
+  m_EditorClassIdentifier: 
+  _swordIconReal: {fileID: 21300000, guid: 3e89250898f89264faf46d88a3eb64cf, type: 3}
+  _swordIcon: {fileID: 21300000, guid: 3e89250898f89264faf46d88a3eb64cf, type: 3}
+  _largeSwordIconReal: {fileID: 21300000, guid: aea80e7984edc2f4696c94d0fcc31be8, type: 3}
+  _largeSwordIcon: {fileID: 21300000, guid: aea80e7984edc2f4696c94d0fcc31be8, type: 3}
+  _twinSwordIconReal: {fileID: 21300000, guid: 61eac4d6e9696de47afb3a41e3fb8f55, type: 3}
+  _twinSwordIcon: {fileID: 21300000, guid: 61eac4d6e9696de47afb3a41e3fb8f55, type: 3}
+  _spearIconReal: {fileID: 21300000, guid: 4b38c17641205364ab42bc9cc6a733e4, type: 3}
+  _spearIcon: {fileID: 21300000, guid: 4b38c17641205364ab42bc9cc6a733e4, type: 3}
+  _gunIconReal: {fileID: 21300000, guid: 787899cea9728ba4f9201ee1a64ee6c6, type: 3}
+  _gunIcon: {fileID: 21300000, guid: 787899cea9728ba4f9201ee1a64ee6c6, type: 3}
